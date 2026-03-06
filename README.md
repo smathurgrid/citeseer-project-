@@ -191,6 +191,12 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+### Train Models via CLI
+You can train different Graph Neural Network models using the command line interface provided in `main.py`.
+```bash
+python main.py --model appnp
+python main.py --model gcn
+python main.py --model gpr
 
 ## ▶️ Running the Streamlit Application
 
