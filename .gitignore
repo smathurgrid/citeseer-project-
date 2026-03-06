@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.env
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Mac files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python build files
+build/
+dist/
+
+# Temporary files
+*.log

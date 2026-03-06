@@ -1,0 +1,21 @@
+{
+    "model": "appnp",
+    "hidden_dim": 256,
+    "K": 10,
+    "alpha": 0.1,
+    "dropout": 0.6,
+    "weight_decay": 0.0005,
+    "split_type": "random_80_10_10",
+    "epochs": 300,
+    "seeds": [
+        0,
+        42,
+        7,
+        123,
+        999
+    ],
+    "mean_accuracy": 0.8011976047904191,
+    "std_accuracy": 0.005867041300079474,
+    "best_seed": 999,
+    "best_checkpoint": "models/appnp_best_seed_999.pt"
+}

@@ -1,0 +1,21 @@
+{
+    "model": "gcn",
+    "hidden_dim": 16,
+    "K": 10,
+    "alpha": 0.1,
+    "dropout": 0.6,
+    "weight_decay": 0.0005,
+    "split_type": "random_80_10_10",
+    "epochs": 300,
+    "seeds": [
+        0,
+        42,
+        7,
+        123,
+        999
+    ],
+    "mean_accuracy": 0.7550898203592814,
+    "std_accuracy": 0.004790419161676646,
+    "best_seed": 42,
+    "best_checkpoint": "models/gcn_seed_42.pt"
+}

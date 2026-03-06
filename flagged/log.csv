@@ -1,0 +1,2 @@
+Select Paper Index,Prediction,Ground Truth,Confidence,Citation Neighbors,Feature Similar Papers,flag,username,timestamp
+421,Predicted Topic: ML,True Topic: Agents,Confidence: 0.7773,"Citation Neighbors: [1135, 1162, 2275, 2631]","Feature Similar Papers: [1094, 3010, 3009, 1152, 2903]",,,2026-03-02 18:30:12.843367
