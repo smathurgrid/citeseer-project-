@@ -197,6 +197,7 @@ You can train different Graph Neural Network models using the command line inter
 python main.py --model appnp
 python main.py --model gcn
 python main.py --model gpr
+```
 
 ## ▶️ Running the Streamlit Application
 
