@@ -171,6 +171,16 @@ Sidebar includes **class distribution visualization**.
 ---
 
 # ⚙️ Installation
+How to Install Brew 
+```bash 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+```
+
+Install Python 3.11
+```bash 
+brew install python@3.11
+```
 
 Clone the repository:
 
@@ -182,7 +192,7 @@ cd citeseer_project
 Create virtual environment:
 
 ```bash
-python -m venv venv
+python3.11 -m venv venv
 source venv/bin/activate
 ```
 
