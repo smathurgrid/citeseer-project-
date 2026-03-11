@@ -5,6 +5,12 @@ An interactive **Graph Neural Network (GNN) dashboard** for exploring and classi
 This project compares **GCN, APPNP, and GPRGNN** models for node classification and provides a **Streamlit-based visualization interface** to explore the citation graph and predictions.
 
 ---
+Interactive visualization and experimentation with GCN, APPNP, and GPRGNN models on the CiteSeer dataset.
+
+## 🚀 Live Demo
+👉 https://citeseer-miniproject.streamlit.app/
+
+---
 
 # 🚀 Project Overview
 
