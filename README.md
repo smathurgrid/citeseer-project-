@@ -82,7 +82,7 @@ Research categories:
 | APPNP | ~0.80 |
 | GPRGNN | ~0.77 |
 | GCN | ~0.75 |
-
+(best epoch on random split)
 APPNP achieved the **best performance** due to its improved propagation mechanism.
 
 ---

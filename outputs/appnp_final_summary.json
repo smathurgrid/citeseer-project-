@@ -1,6 +1,6 @@
 {
     "model": "appnp",
-    "hidden_dim": 256,
+    "hidden_dim": 64,
     "K": 10,
     "alpha": 0.1,
     "dropout": 0.6,
