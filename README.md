@@ -11,7 +11,6 @@ Interactive visualization and experimentation with GCN, APPNP, and GPRGNN models
 👉 https://citeseer-miniproject.streamlit.app/
 
 ---
-
 # 🚀 Project Overview
 
 In citation networks:
