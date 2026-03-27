@@ -1,6 +1,7 @@
 # Project 3: Productionizing Graph Neural Networks (GNNs)
 
 [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-View_Report-2563eb?style=for-the-badge)](https://smathurgrid.github.io/blog_post/)
+
 *(Click the badge above to view the interactive engineering report)*
 
 ## 📌 Project Overview
