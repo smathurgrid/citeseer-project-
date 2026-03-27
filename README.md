@@ -91,15 +91,18 @@ Research categories:
 
 ---
 
+
 # 📈 Experimental Results
 
-| Model | Mean Accuracy |
-|------|------|
-| APPNP | ~0.80 |
+| Model  | Mean Accuracy |
+|--------|--------------|
+| APPNP  | **~0.80** |
 | GPRGNN | ~0.77 |
-| GCN | ~0.75 |
-(best epoch on random split)
-APPNP achieved the **best performance** due to its improved propagation mechanism.
+| GCN    | ~0.75 |
+
+> 📌 *Results shown are based on best epoch from random data split.*
+
+🏆 **APPNP achieved the best performance due to its improved propagation mechanism.**
 
 ---
 
