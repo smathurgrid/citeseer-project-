@@ -187,12 +187,6 @@ Install Python 3.11
 brew install python@3.11
 ```
 
-Clone the repository:
-
-```bash
-git clone <repo-link>
-cd citeseer_project
-```
 
 Create virtual environment:
 
