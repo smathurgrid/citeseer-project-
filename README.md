@@ -32,7 +32,7 @@ This project:
 
 This project was further extended into a more **production-oriented Machine Learning Engineering study**, focusing on performance, interpretability, and scalability.
 
-👉 **Explore here:** [📂 Project 3 Folder](./project_3/)
+👉 **Explore here:** [📂 Project 3 Folder](./Project_3/)
 
 Key highlights:
 
