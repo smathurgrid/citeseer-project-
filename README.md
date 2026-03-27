@@ -27,6 +27,23 @@ This project:
 - Compares their performance
 - Visualizes citation relationships
 - Provides an interactive UI for exploring predictions
+---
+## 🚀 Project 3: Advanced GNN Engineering Extension
+
+This project was further extended into a more **production-oriented Machine Learning Engineering study**, focusing on performance, interpretability, and scalability.
+
+👉 **Explore here:** [📂 Project 3 Folder](./project_3/)
+
+Key highlights:
+
+- ⚡ **Model Profiling:** Measured training time, inference latency, and memory usage across GCN, APPNP, and GPRGNN  
+- 📊 **Propagation Analysis:** Studied trade-offs between propagation steps (K) and model performance  
+- 🧠 **Activation Patching:** Analyzed how different layers utilize graph edge information  
+- 🔬 **Ablation Studies:** Performed systematic hyperparameter tuning (K vs Dropout)  
+- 📉 **Embedding Analysis:** Visualized latent representations using t-SNE and similarity metrics  
+- 🌐 **Deployment:** Built a FastAPI-based inference system supporting concurrent requests  
+
+📄 Detailed engineering report available in Project 3 README
 
 ---
 
