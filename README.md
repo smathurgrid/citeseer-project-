@@ -117,27 +117,45 @@ Streamlit Interactive Dashboard
 citeseer_project/
 │
 ├── models/
-│   ├── appnp_best_seed_42.pt
-│   ├── gcn_seed_42.pt
-│   ├── gpr_best_seed_999.pt
+│ ├── appnp_best_seed_42.pt
+│ ├── gcn_seed_42.pt
+│ ├── gpr_best_seed_999.pt
 │
 ├── outputs/
-│   ├── appnp_final_summary.json
-│   ├── gcn_final_summary.json
-│   ├── gpr_final_summary.json
+│ ├── appnp_final_summary.json
+│ ├── gcn_final_summary.json
+│ ├── gpr_final_summary.json
+│ ├── val_acc_seed_7.npy
+│ ├── val_acc_seed_42.npy
+│ ├── val_acc_seed_123.npy
+│ ├── val_acc_seed_999.npy
 │
-├── notebooks/
-│   ├── Experiments.ipynb
-│   ├── Visualization.ipynb
+├── plots/
+│ ├── accuracy_drop_animation.gif
+│ ├── activation_patching_heatmap.png
+│ ├── edge_saliency_bar.png
+│ ├── pareto_frontier.png
+│
+├── Project_3/
+│ ├── Data/
+│ ├── cosine_similarity_distribution.png
+│ ├── tsne_embeddings.png
+│ ├── Readme.md
+│ ├── task1_analysis.ipynb
+│ ├── task1_profiler.py
+│ ├── task2.ipynb
+│ ├── task3.ipynb
+│ ├── task4.ipynb
+│ ├── task5.ipynb
 │
 ├── src/
-│   ├── model.py
-│   ├── data_preprocessing.py
-│   ├── train.py
 │
+├── main.py
+├── README.md
+├── requirements.txt
+├── server.py
 ├── streamlit_demo.py
-│
-└── README.md
+├── test_payload.json
 ```
 
 # 🖥 Interactive Dashboard
