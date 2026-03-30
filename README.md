@@ -245,11 +245,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Install PyTorch Geometric compiled libraries 
 
-```bash 
-pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.5.1+cpu.html
-```
 ### Train Models via CLI
 You can train different Graph Neural Network models using the command line interface provided in `main.py`.
 ```bash
